@@ -1,0 +1,12 @@
+p{
+    color: red;
+}
+
+.header-container{
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+.second{
+    color: black;
+}
